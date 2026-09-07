@@ -13,6 +13,7 @@ print("keliling bangunan tersebut adalah :", keliling)
 #b. Apakah luas bangunan tersebut lebih luas dari 50?
 isLuas = luas > 50
 print(luas, ">", 50, "=", isLuas)
+
 #c. Apakah volume tersebut bernilai 480?
 isVolume = volume == 480
 print(volume, "==", 480, "=", isVolume)
